@@ -1,2 +1,2 @@
-# leetcode_practice
-Trying out the Leetcode 75
+# Getting back into Algorithms
+Will be posting the questions i do daily in this repo
